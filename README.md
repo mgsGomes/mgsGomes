@@ -1,4 +1,4 @@
-## Olá eu sou Micael Gomes de Souza, trabalho com programação e tecnologia desde 2009.
+## Olá, sou Micael Gomes de Souza, trabalho com programação e tecnologia desde 2009.
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Mica-Delphi" height="30" width="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000">
